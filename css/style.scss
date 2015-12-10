@@ -231,6 +231,10 @@ ul {
 		border-bottom: 10px solid $light-blue;
 	}
 
+	.content-panel:nth-of-type(2) {
+		border-bottom: 8px solid $light-blue;
+	}
+
 	.author-header {
 		font-family: 'Montserrat', sans-serif;
 		color: $light-blue;
@@ -260,7 +264,15 @@ ul {
 	.gravatar {
 		width: 100%;
 		margin-top: -80px;
-		text-align: center;
+		text-align: left;
+	}
+
+	.row .author-panel {
+		margin-top: 80px;
+	}
+
+	.gravatar.author {
+		text-align: right;
 	}
 
 	.author-text {

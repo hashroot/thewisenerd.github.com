@@ -20,6 +20,17 @@ layout: default
 
             {% include social_links.html %}
           </div>
+          <div class="col-md-12 main content-panel author-panel">
+            <div class="gravatar author">
+                <img src="{{ site.author.image }}" class="img-circle about-image" height="150" width="150" alt="{{ site.author.name }}" />
+            </div>
+
+            <h1 class="header author-header" itemprop="headline">the author</h1>
+
+            <div class="author-text">
+                {{ site.author_description }}
+            </div>
+          </div>
           <div class="col-md-12 main content-panel">
 
             <div class="articles">
