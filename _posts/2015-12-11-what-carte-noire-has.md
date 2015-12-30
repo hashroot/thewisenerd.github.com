@@ -36,7 +36,7 @@ This has been more clearly elaborated [here][1].
 
 -----------
 
-The rest is just beauty of design. Jason has written a wonderful post [here][2] which
+The rest is just beauty of design. Jacob has written a wonderful post [here][2] which
 I shall shamelessly _kang_ (a part of) to illustrate this point.
 
 -----------

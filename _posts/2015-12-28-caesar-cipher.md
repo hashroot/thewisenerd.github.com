@@ -70,7 +70,7 @@ to explain more about the two.
 It is important to note one of the pitfalls being mentioned in the same page.
 
 When the result of the modulo operation takes the sign of the dividend, some
-suprising mistakes may occour. One among them, is the testing for whether an
+suprising mistakes may occur. One among them, is the testing for whether an
 integer is odd using the modulo operator.
 
 Run the below code, and you'll know immediately what I'm talking about.
