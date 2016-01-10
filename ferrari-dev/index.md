@@ -33,3 +33,7 @@ I make my own builds usually for updated ROM sources, or other spin-offs.
 You may find them here.
 
 [cm-12.1](cm-12.1/)
+
+---
+
+CAF kernel: [lp](caf-lp/)
