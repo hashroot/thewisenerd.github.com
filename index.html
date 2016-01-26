@@ -31,6 +31,7 @@ layout: default
 
             {% include social_links.html %}
           </div>
+          {% if site.posts.size > 0 %}
           <div class="col-md-12 main content-panel">
 
             <div class="articles">
@@ -56,6 +57,7 @@ layout: default
             </div>
 
         </div>
+        {% endif %}
 
     </div>
 </div>
